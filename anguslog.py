@@ -1,5 +1,9 @@
-def help():
-    return: run away
+def run_command():
+    run_away = print("Run Bitch... RUN!!!")
+    run_away_now = print("Hurry UP and RUN!!!")
+    return run_away
+    return run_away_now
+    return run_away_now_now
+run_command()
 
-    Print "Run Bitch... RUN!!!"Print "Hello" 
-\n just trying to mess things up here
+    Print "Run Bitch... RUN!!!
